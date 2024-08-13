@@ -1,0 +1,33 @@
+body{
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+    display:flex;
+    background-color:skyblue;
+}
+.bmi-calculat{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    padding: 15px;
+    background: black;
+    border-radius: 5px;
+    color: white;
+    
+
+}
+button{
+    color: white;
+    padding: 10px;
+    background-color:green;
+    
+}
+button:hover{
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    background-color:red;
+    transition: 5ms;
+    
+}
